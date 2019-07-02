@@ -1,0 +1,1 @@
+This is an error i am getting.   dlrs_LegTrigger: execution of AfterUpdate caused by: System.TypeException: Invalid id: 1 Class.dlrs.RollupService.handleRollups: line 790, column 1 Class.dlrs.RollupService.triggerHandler: line 307, column 1 Trigger.dlrs_LegTrigger: line 7, column 1
